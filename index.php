@@ -51,7 +51,6 @@
 			}
 		</style>
 		<script type="text/javascript">//<![CDATA[
-        // Google Analytics for WordPress by Yoast v4.3.3 | http://yoast.com/wordpress/google-analytics/
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', 'UA-11178484-2']);
 			            _gaq.push(['_trackPageview']);
